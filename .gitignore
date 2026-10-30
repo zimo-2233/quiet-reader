@@ -1,0 +1,17 @@
+/dist*/
+/releases/
+*.zip
+*.exe
+*.log
+/tests/ui-*/
+/tests/test-work-*/
+/tests/wpf-test-*/
+/tests/perf-work-*/
+/tests/baseline/
+**/books/
+state.json
+state.json.*
+recovery-state.json
+/验证记录.md
+.vs/
+*.user
